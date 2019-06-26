@@ -11,5 +11,5 @@ Na horní ovládací liště můžete nastavit dobu čekání mezi jednotlivými
 
 - `Levé tlačíko myši` \- Zaznačení neprůchozího pole
 - `Pravé tlačíko myši` \- Odebrání neprůchozího pole
-- `S \+ Levé tlačíko myši` \- Zaznačení začátku prohledávání
-- `E \+ Levé tlačíko myši` \- Zaznačení cíle prohledávání
+- `S + Levé tlačíko myši` \- Zaznačení začátku prohledávání
+- `E + Levé tlačíko myši` \- Zaznačení cíle prohledávání
